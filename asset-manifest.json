@@ -1,28 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.3012e4cf.chunk.css",
-    "main.js": "/static/js/main.b7f3f076.chunk.js",
-    "main.js.map": "/static/js/main.b7f3f076.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6f548d3a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6f548d3a.js.map",
-    "static/js/2.ab3889b0.chunk.js": "/static/js/2.ab3889b0.chunk.js",
-    "static/js/2.ab3889b0.chunk.js.map": "/static/js/2.ab3889b0.chunk.js.map",
-    "static/js/3.4b06ccc9.chunk.js": "/static/js/3.4b06ccc9.chunk.js",
-    "static/js/3.4b06ccc9.chunk.js.map": "/static/js/3.4b06ccc9.chunk.js.map",
+    "main.css": "/static/css/main.10e0020b.chunk.css",
+    "main.js": "/static/js/main.e40cb4ae.chunk.js",
+    "main.js.map": "/static/js/main.e40cb4ae.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8ad2f1c9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8ad2f1c9.js.map",
+    "static/js/2.ce4602d9.chunk.js": "/static/js/2.ce4602d9.chunk.js",
+    "static/js/2.ce4602d9.chunk.js.map": "/static/js/2.ce4602d9.chunk.js.map",
+    "static/js/3.91daa9c1.chunk.js": "/static/js/3.91daa9c1.chunk.js",
+    "static/js/3.91daa9c1.chunk.js.map": "/static/js/3.91daa9c1.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.3012e4cf.chunk.css.map": "/static/css/main.3012e4cf.chunk.css.map",
-    "static/js/2.ab3889b0.chunk.js.LICENSE.txt": "/static/js/2.ab3889b0.chunk.js.LICENSE.txt",
-    "static/media/home.module.css": "/static/media/background-pattern.26a61e80.png",
-    "static/media/discord.ff388ade.svg": "/static/media/discord.ff388ade.svg",
-    "static/media/logo.14aec451.png": "/static/media/logo.14aec451.png",
-    "static/media/nsfw-logo.f21ea58f.png": "/static/media/nsfw-logo.f21ea58f.png",
-    "static/media/telegram.af763f87.svg": "/static/media/telegram.af763f87.svg",
-    "static/media/twitter-app.f3dd40ad.svg": "/static/media/twitter-app.f3dd40ad.svg"
+    "static/css/main.10e0020b.chunk.css.map": "/static/css/main.10e0020b.chunk.css.map",
+    "static/js/2.ce4602d9.chunk.js.LICENSE.txt": "/static/js/2.ce4602d9.chunk.js.LICENSE.txt",
+    "static/media/winui.css": "/static/media/noise.dc6641fd.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6f548d3a.js",
-    "static/js/2.ab3889b0.chunk.js",
-    "static/css/main.3012e4cf.chunk.css",
-    "static/js/main.b7f3f076.chunk.js"
+    "static/js/runtime-main.8ad2f1c9.js",
+    "static/js/2.ce4602d9.chunk.js",
+    "static/css/main.10e0020b.chunk.css",
+    "static/js/main.e40cb4ae.chunk.js"
   ]
 }
